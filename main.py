@@ -1,11 +1,12 @@
 import speech_recognition as sr
 import webbrowser
 import pyttsx3
+import ggtsx
 import musicLibrary
 import requests
 import pygame
 import os
-from openai import OpenAI
+from openai import OpenAI #Open ai API is paid
 
 
 recognizer = sr.Recognizer()
