@@ -3,3 +3,5 @@ music = {
     "enemy" : "https://youtu.be/F5tSoaJ93ac?si=vmhUt1yMm_HEGaAv"
 }
 #You can Also add music
+#This is the dictionary file to search music
+#by voice assitant
